@@ -33,14 +33,20 @@ to find patterns in ratings, cuisines, locations and pricing.
 - Restaurants with online ordering have higher ratings
 
 ## Charts
-1. <img width="1181" height="490" alt="chart1_locations" src="https://github.com/user-attachments/assets/111611ee-b4d5-4dc8-b985-05ad83d84b14" />
+### Top 10 Locations
+ <img width="1181" height="490" alt="chart1_locations" src="https://github.com/user-attachments/assets/111611ee-b4d5-4dc8-b985-05ad83d84b14" />
 
-2. <img width="690" height="1190" alt="chart2_online_orders vs rating" src="https://github.com/user-attachments/assets/b6704251-bef5-4492-a4c1-e7c0be9d9d52" />
+### Online Order vs Rating
+ <img width="690" height="1190" alt="chart2_online_orders vs rating" src="https://github.com/user-attachments/assets/b6704251-bef5-4492-a4c1-e7c0be9d9d52" />
 
-3. <img width="1189" height="490" alt="chart3_Top 10 cuisines" src="https://github.com/user-attachments/assets/cf536d89-ea3a-4e79-82e5-34a5d1c68cac" />
+### Top 10 Cuisines
+ <img width="1189" height="490" alt="chart3_Top 10 cuisines" src="https://github.com/user-attachments/assets/cf536d89-ea3a-4e79-82e5-34a5d1c68cac" />
 
-4. <img width="553" height="490" alt="chart4_rest types" src="https://github.com/user-attachments/assets/38fa188c-7c56-4dd3-af44-de5e9ccd1b72" />
-
-5. <img width="789" height="490" alt="chart5_avrg cost" src="https://github.com/user-attachments/assets/5596fbab-8e02-442d-aaf9-e4af9e26f130" />
-
-6. <img width="1181" height="490" alt="chart6_avg rating locations" src="https://github.com/user-attachments/assets/561cd4a6-e0ed-4651-b5ad-250f4ff21b65" />
+### Restaurant Type Distribution
+ <img width="553" height="490" alt="chart4_rest types" src="https://github.com/user-attachments/assets/38fa188c-7c56-4dd3-af44-de5e9ccd1b72" />
+ 
+### Cost Distribution
+ <img width="789" height="490" alt="chart5_avrg cost" src="https://github.com/user-attachments/assets/5596fbab-8e02-442d-aaf9-e4af9e26f130" />
+ 
+### Top 10 Locations by Rating
+<img width="1181" height="490" alt="chart6_avg rating locations" src="https://github.com/user-attachments/assets/561cd4a6-e0ed-4651-b5ad-250f4ff21b65" />
